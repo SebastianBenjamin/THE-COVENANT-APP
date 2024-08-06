@@ -1,3 +1,4 @@
+call();
 function call() {
     const xhttp = new XMLHttpRequest();
 
