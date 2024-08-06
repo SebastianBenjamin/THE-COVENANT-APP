@@ -13,7 +13,7 @@ function call() {
             const verseOfDay = data.find(item => item.day === dayOfYear);
 
             if (verseOfDay) {
-                // Convert the specific verse to JSON and display
+               
                 const output = JSON.stringify(verseOfDay, null, 2); // Pretty-print JSON
                 document.getElementsByTagName('pre')[0].textContent = output;
             } else {
