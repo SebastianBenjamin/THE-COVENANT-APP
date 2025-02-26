@@ -33,7 +33,7 @@
 
 ## 📲 Installation  
 
-1. **Download the APK** from [Releases]([https://github.com/your-repo-link/releases](https://github.com/SebastianBenjamin/THE-COVENANT-APP/raw/refs/heads/main/The_Covenant_App.apk)).  
+1. **Download the APK** from [Releases](https://github.com/SebastianBenjamin/THE-COVENANT-APP/raw/refs/heads/main/The_Covenant_App.apk).  
 2. Install the APK on your Android device.  
 3. Open *The Covenant* and start reading!  
 
